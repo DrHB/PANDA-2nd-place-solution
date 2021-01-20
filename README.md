@@ -8,14 +8,14 @@ Below you can find a outline of how to reproduce out solution for the Prostate c
 
 
 ### ARCHIVE CONTENTS
-
+```
 prostate-cancer-grade-assessment    :competition data
-train_cateek                                            : train code from CatEek
-train_drhb                                               : train code from DrHB
-train_rguo                                                :train code from R Guo
-train_xie29                                              :train code from xie29
-prediction                                                :prediction files
-
+train_cateek                        :train code from CatEek
+train_drhb                          :train code from DrHB
+train_rguo                          :train code from R Guo
+train_xie29                         :train code from xie29
+prediction                          :prediction files
+```
 ### Train Details
 
 For more train details, please refer to each train folder.
