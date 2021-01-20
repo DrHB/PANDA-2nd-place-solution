@@ -1,0 +1,12 @@
+{"RAW_DATA_DIR": "./data/train_images",
+ "RAW_DATA_TEST": "./data/test_images",
+ "CLEAN_DATA_DIR": "./biopsy_preprocess", 
+ "TRAIN_DATA_CLEAN_PATH": "./data/processed/train.csv", 
+ "TEST_DATA_CLEAN_PATH": "./data/processed/test.csv", 
+ "MODEL_CHECKPOINT_DIR": "./models/",
+ "LOGS_DIR": "./logs/", 
+ "SUBMISSION_DIR": "./submissions/", 
+ "FOLD" : 0,
+ "CUSTOM_DATA": "./data_custom", 
+ "STAGE_1_N": 49, 
+ "STAGE_2_N": 81}

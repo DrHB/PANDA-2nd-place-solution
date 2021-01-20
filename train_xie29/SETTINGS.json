@@ -1,0 +1,13 @@
+{"RAW_DATA_DIR": "./data/prostate-cancer-grade-assessment/",
+ "RAW_DATA_TEST": "./data/prostate-cancer-grade-assessment/",
+ "CUSTOMIZE_DATA_DIR" : "./data/customize/",
+ "CLEAN_DATA_DIR": "./data/tiles_tfrec/",
+ "TRAIN_DATA_CLEAN_PATH_1": "ptfrecord1",
+ "TRAIN_DATA_CLEAN_PATH_2": "ptfrecord2",
+ "TRAIN_DATA_CLEAN_PATH_3": "ptfrecord3",
+ "TRAIN_DATA_CLEAN_PATH_4": "ptfrecord4",
+ "TRAIN_DATA_CLEAN_PATH_5": "ptfrecord5",
+ "MODEL_CHECKPOINT_DIR": "./data/panda-best-weights/",
+ "MODEL_TRAIN_CHECKPOINT_DIR" : "/kaggle/working/training_checkpoints/",
+ "SUBMISSION_DIR": "./submissions/",
+ "FOLD" : 0}

@@ -1,0 +1,10 @@
+{"RAW_DATA_DIR": "./data/train_images/",
+ "RAW_DATA_TEST": "./data/test_images/",
+ "CLEAN_DATA_DIR": "./data/biopsy_preprocess/", 
+ "TRAIN_DATA_CLEAN_PATH": "./data/train.csv", 
+ "BAD_SLIDES": "./data/bad.csv",
+ "TEST_DATA_CLEAN_PATH": "./data/test.csv", 
+ "MODEL_CHECKPOINT_DIR": "./data/models/fold0_ep28pb2.pt",
+ "MODEL_PT_WEIGHTS": "./data/models/X-50-GN-WS.pth",
+ "WORKDIR": "./data/models/",
+ "SUBMISSION_DIR": "./data/submissions/"}
