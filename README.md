@@ -1,7 +1,8 @@
-Hello!
+Below you can find a outline of how to reproduce out solution for the Prostate cANcer graDe Assessment (PANDA) Challenge competition.
 
-Below you can find a outline of how to reproduce my solution for the Prostate cANcer graDe Assessment (PANDA) Challenge competition.
-
+competition page: https://www.kaggle.com/c/prostate-cancer-grade-assessment/overview
+final solution: https://www.kaggle.com/drhabib/ens-xie-2fold-drhb-igor-ru-se50-ru-efnet-5
+solution write up: https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion/169108
 
 ### ARCHIVE CONTENTS
 
